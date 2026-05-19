@@ -1,0 +1,36 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Doğuş Can Öksüz"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: projects.qmd
+        text: Projects
+      - href: resources.qmd
+        text: Resources
+      - href: blog.qmd
+        text: Blog
+      - href: publications.qmd
+        text: Publications
+      - href: cv.qmd
+        text: CV
+      - href: contact.qmd
+        text: Contact
+    right:
+      - icon: github
+        href: https://github.com/dogus-oksuz
+      - icon: envelope
+        href: mailto:d.c.oksuz1@lancaster.ac.uk
+
+  page-footer:
+    center: "© 2026 Doğuş Can Öksüz"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false

@@ -1,0 +1,20 @@
+---
+title: "Hello! Merhaba!"
+subtitle: "Dr Doğuş Can Öksüz — Cognitive Scientist | Data Scientist | Quantitative Social Scientist | Reproducible Research"
+image: images/profile.jpg
+about:
+  template: jolla
+  image: images/profile.jpg
+  image-shape: round
+---
+
+I am a cognitive scientist and data scientist interested in how the mind learns and processes language. My scientific work has two goals: to understand the computational machinery that enables children and adults to learn and process language, and to use advanced statistical modelling and reproducible data-science methods to uncover patterns in linguistic behaviour.
+
+## Research areas
+
+- Cognitive basis of language learning and processing
+- Quantitative data analysis
+- Psycholinguistic experiments
+- Corpus analysis
+- Computational modelling
+- Reproducible research

@@ -1,0 +1,7 @@
+---
+title: "Projects"
+---
+
+This page is currently under construction.
+
+I will use this space to share selected projects in statistical modelling, social data science, reproducible research, and corpus/text analysis.

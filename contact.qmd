@@ -1,0 +1,12 @@
+---
+title: "Contact"
+---
+
+If you have questions, are interested in working with me, or would like me to send you a paper, please get in touch.
+
+|  |  |
+|---|---|
+| ![](images/logos/e-mail.png){width=36px} | **Email**<br>doguscanoksuz [at] gmail [dot] com<br>d.c.oksuz1 [at] lancaster [dot] ac [dot] uk |
+| [![](images/logos/github.png){width=36px}](https://github.com/dogus-oksuz) | [**GitHub**](https://github.com/dogus-oksuz) |
+| [![](images/logos/google_scholar.png){width=36px}](https://scholar.google.com/citations?user=tmzTx8QAAAAJ&hl=en&citsig=AJY4_hNuqxfC8ZvhJxmjMsVYxNTR) | [**Google Scholar**](https://scholar.google.com/citations?user=tmzTx8QAAAAJ&hl=en&citsig=AJY4_hNuqxfC8ZvhJxmjMsVYxNTR) |
+| [![](images/logos/LinkedIn.png){width=36px}](https://www.linkedin.com/in/do%C4%9Fu%C5%9F-can-%C3%B6ks%C3%BCz-b13729395/) | [**LinkedIn**](https://www.linkedin.com/in/do%C4%9Fu%C5%9F-can-%C3%B6ks%C3%BCz-b13729395/) |
