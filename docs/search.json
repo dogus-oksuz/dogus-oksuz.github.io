@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "This page is currently under construction.\nI will use this space to share posts on statistical modelling, data science, cognitive science, psycholinguistics, language learning, and reproducible research."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "You can download my current CV here:\nDownload CV"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hello! Merhaba!",
+    "section": "",
+    "text": "I am a cognitive scientist and data scientist interested in how the mind learns and processes language. My scientific work has two goals: to understand the computational machinery that enables children and adults to learn and process language, and to use advanced statistical modelling and reproducible data-science methods to uncover patterns in linguistic behaviour."
+  },
+  {
+    "objectID": "index.html#research-areas",
+    "href": "index.html#research-areas",
+    "title": "Hello! Merhaba!",
+    "section": "Research areas",
+    "text": "Research areas\n\nCognitive basis of language learning and processing\nQuantitative data analysis\nPsycholinguistic experiments\nCorpus analysis\nComputational modelling\nReproducible research"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "If you have questions, are interested in working with me, or would like me to send you a paper, please get in touch.\n\n\n\n\nEmaildoguscanoksuz [at] gmail [dot] comd.c.oksuz1 [at] lancaster [dot] ac [dot] uk\n\n\n\nGitHub\n\n\n\nGoogle Scholar\n\n\n\nLinkedIn"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "This page is currently under construction.\nI will use this space to share selected projects in statistical modelling, social data science, reproducible research, and corpus/text analysis."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Ott, C., Rebuschat, P., Öksüz, D., & Bottini, R. Distributional predictors of lexical bundle processing: Effects of frequency, association strength, and length.\nÖksüz, D., Ge, C., Göymen, D., Rebuschat, P., & Christiansen, M. Chunking ability predicts collocational processing in heritage and non-heritage Turkish speakers."
+  },
+  {
+    "objectID": "publications.html#in-preparation",
+    "href": "publications.html#in-preparation",
+    "title": "Publications",
+    "section": "",
+    "text": "Ott, C., Rebuschat, P., Öksüz, D., & Bottini, R. Distributional predictors of lexical bundle processing: Effects of frequency, association strength, and length.\nÖksüz, D., Ge, C., Göymen, D., Rebuschat, P., & Christiansen, M. Chunking ability predicts collocational processing in heritage and non-heritage Turkish speakers."
+  },
+  {
+    "objectID": "publications.html#manuscripts-under-review-revision",
+    "href": "publications.html#manuscripts-under-review-revision",
+    "title": "Publications",
+    "section": "Manuscripts under review / revision",
+    "text": "Manuscripts under review / revision\nÖksüz, D., Akef, S., Mendes, A., & Rebuschat, P. Noun-adjective collocations in L2 Portuguese: Exploring the effects of proficiency and native language in a large-scale learner corpus. [Open data & code] [Preprint]"
+  },
+  {
+    "objectID": "publications.html#refereed-journal-articles",
+    "href": "publications.html#refereed-journal-articles",
+    "title": "Publications",
+    "section": "Refereed journal articles",
+    "text": "Refereed journal articles\nÖksüz, D., Alexopoulou, T., Derkach, K., & Tsimpli, I. M. (2025). The influence of L1 typology on the acquisition of the L2 English article: A large-scale corpus study. Second Language Research. [Open data & code] [Preprint] https://doi.org/10.1177/02676583251395876\nÖksüz, D., Brezina, V., Monaghan, P., & Rebuschat, P. (2024). Individual word and phrase frequency effects in collocational processing: Evidence from typologically different languages, English and Turkish. Journal of Experimental Psychology: Learning, Memory, and Cognition, 50(8), 1287–1314. [Open data & code] https://doi.org/10.1037/xlm0001324\nÖksüz, D., Brezina, V., & Rebuschat, P. (2021). Collocational processing in L1 and L2: The effects of word frequency, collocational frequency, and association. Language Learning, 71, 55–98. [Open data & code] https://doi.org/10.1111/lang.12427"
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "This page is currently under construction.\nI will use this space to share resources on teaching statistics, R, social data science, cognitive science, psycholinguistics, and reproducible research."
+  }
+]
