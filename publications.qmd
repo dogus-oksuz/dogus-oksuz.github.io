@@ -8,9 +8,9 @@ Ott, C., Rebuschat, P., Öksüz, D., & Bottini, R. Distributional predictors of 
 
 Öksüz, D., Ge, C., Göymen, D., Rebuschat, P., & Christiansen, M. Chunking ability predicts collocational processing in heritage and non-heritage Turkish speakers.
 
-## Manuscripts under review / revision
+## In press
 
-Öksüz, D., Akef, S., Mendes, A., & Rebuschat, P. Noun-adjective collocations in L2 Portuguese: Exploring the effects of proficiency and native language in a large-scale learner corpus. [[Open data & code](https://osf.io/7hgsf/overview?view_only=632c04af87ee430b98066733e9fd7626)] [[Preprint](https://osf.io/preprints/psyarxiv/pqw53_v2)]
+Öksüz, D., Akef, S., Mendes, A., & Rebuschat, P. (in press). Noun-adjective collocations in L2 Portuguese: Exploring the effects of proficiency and native language in a large-scale learner corpus. *International Journal of Learner Corpus Research*. [[Open data & code](https://osf.io/7hgsf/overview?view_only=632c04af87ee430b98066733e9fd7626)] [[Preprint](https://osf.io/preprints/psyarxiv/pqw53_v2)]
 
 ## Refereed journal articles
 
